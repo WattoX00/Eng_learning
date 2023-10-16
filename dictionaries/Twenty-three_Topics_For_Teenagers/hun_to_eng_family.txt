@@ -1,7 +1,7 @@
 idősebb /elder;
 fiatalabb /younger;
 ikrek /twins;
-(lány) féltestvér /half/sister;
+(lány) féltestvér /half-sister;
 iskolai kollégium /school hostel;
 egyke /an only child;
 elválni /get divorced;
