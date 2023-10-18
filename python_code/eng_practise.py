@@ -13,25 +13,32 @@ word[nation] /word[foring];
 ...
 
 '''
-import random
-#* paste the path of the .txt file between the r""
-f = open(r"","r", encoding="UTF-8")
+import random, time
+
+start_time = time.time()
+#* file path
+file_path = input("Enter the path to the file: ")
+print('\n','\n')
+try:
+    with open(file_path, "r", encoding='UTF-8') as f:
+        read = f.read()
+except FileNotFoundError:
+    print("File not found.")
+except Exception as e:
+    print(f"An error occurred: {e}")
 #* variables
-counter = 0
-point=0
-max_=0
+counter = int()
+point= int()
+max_= int()
 list_file = []
 no_num = []
-
-#* read the txt file
-read = f.read()
 #* split the txt file into a big list
 split_read = read.split("\n")
 #* find the last element of the list
 for i in split_read:
     max_+=1
-    
 while counter != max_:
+    
     #* random number
     rand = random.randint(0,max_-1)
     #* if there was line that we use before, restart the loop (counter+=0)
@@ -62,3 +69,12 @@ while counter != max_:
 #* calculating the percentages
 percentage = (point/counter)*100
 print(point,"/",counter,"\n",str(percentage)+"/100%")
+#* time calculation
+end_time = time.time()
+elapsed_time = end_time - start_time
+minutes_time = elapsed_time/60
+#* if the program ran less than a minute print seconds...
+if minutes_time < 1:
+    print(round(elapsed_time,2),"seconds.")
+else:
+    print(round(minutes_time,2),"minutes.")
