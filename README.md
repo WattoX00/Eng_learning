@@ -59,4 +59,7 @@ Before you begin, make sure you have the following:
 
 If you encounter any issues or have questions, please feel free to reach out by opening an issue on our [GitHub repository](https://github.com/WattoX00/Eng_learing).
 
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 Happy learning!
