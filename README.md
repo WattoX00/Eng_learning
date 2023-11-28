@@ -33,7 +33,7 @@ Before you begin, make sure you have the following:
    - Open the `eng_practise.py`
    - In Visual Studio Code, click the top right corner.
    - Select the text file you want to practise with.
-   -![run_program](https://github.com/WattoX00/Ip/assets/78638839/6e1a0726-40bf-467c-80f0-1f48e410637e)
+   ![run_program](https://github.com/WattoX00/Ip/assets/78638839/6e1a0726-40bf-467c-80f0-1f48e410637e)
 
 5. **Practice:**
    - Follow the program's prompts and practice your English vocabulary.
