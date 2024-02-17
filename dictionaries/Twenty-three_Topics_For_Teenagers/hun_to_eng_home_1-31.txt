@@ -109,7 +109,7 @@
  asztali lámpa /table lamp;
  szótár /dictionary;
  polc /shelf;
- kéznel van /be at hand hand;
+ kéznel van /be at hand;
  plakát /poster;
  rendetlen /messy;
  ahogy van /the way it is;
@@ -159,14 +159,14 @@
  szekrény /cabinet;
  alul /below;
  (nyeles) lábos /pan;
- lazek /pot;
+ fazék /pot;
  háztartási gép /household appliance;
  edények és evöeszközok /tableware;
  evoeszköz /cutlery;
  zsúfolt /crowded;
  gaz /gas;
  villany /electricity;
- haromlapos  /three-ring;
+ haromlapos /three-ring;
  tüzhely /stove;
  süto /oven;
  elszivóberendezés /extractor fan;
