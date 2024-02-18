@@ -1,4 +1,3 @@
-
 beépitett szekrény /fitted wardrobe;
 padló /floor;
 vállfa /hanger;
@@ -67,7 +66,7 @@ termeszt /grow;
 mint például /such as;
 bazsalikom /basil;
 petrezselyem /parsley;
-rozmaring /rosemary reuzmori;
+rozmaring /rosemary;
 frissen /freshly;
 szed /pick;
 sárgabarack /apricot;
