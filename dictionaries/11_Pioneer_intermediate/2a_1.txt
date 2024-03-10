@@ -33,7 +33,7 @@ egyesével /one by one;
 oxigén /oxygen;
 járókelő /passerby;
 vadőr /ranger;
-meggyógyul, helyrejön /recoyer;
+meggyógyul, helyrejön /recover;
 lerombol, tönkretesz /ruin;
 különféle /several;
 menedék, fedél /shelter;
