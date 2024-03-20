@@ -1,4 +1,4 @@
-mentőautó/mentők /ambulance;
+mentőautó,mentők /ambulance;
 blokkol, lezár, eltorlaszol /block;
 bámészkodó, járókelő /bystander;
 segélyszolgálat /emergency services;
