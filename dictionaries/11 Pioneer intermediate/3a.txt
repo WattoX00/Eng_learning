@@ -62,5 +62,5 @@ foglalás /reservation;
 foglal, lefoglal /reserve;
 safari /safari;
 látvány, látványosság /scenery;
-free /stress;
+stress-free /stresszmentes;
 vadvilág /wildlife;
