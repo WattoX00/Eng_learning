@@ -10,7 +10,7 @@ kör /circle;
 építőipari munkás /construction worker;
 kiürít /evacuate;
 kiürítés /evacuation;
-kijárat, r /exit;
+kijárat /exit;
 tűzoltókészülék /fire extinguisher;
 fogannú, kilincs /handle;
 veszélyes /hazard;
