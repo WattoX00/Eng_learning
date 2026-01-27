@@ -7,7 +7,7 @@
 
 Welcome to the English Learning Program.
 
-# [Website](https://wattox00.github.io/e/)
+# 🧷 [Website](https://wattox00.github.io/e/)
 
 Now you can try it on the web -> [https://wattox00.github.io/e/](https://wattox00.github.io/e/)
 
@@ -15,7 +15,8 @@ Now you can try it on the web -> [https://wattox00.github.io/e/](https://wattox0
 
 This guide will help you get started with the program in Visual Studio Code
 
-## Prerequisites
+<details>
+<summary>Click to expand</summary>
 
 Before you begin, make sure you have the following:
 
@@ -50,14 +51,23 @@ Before you begin, make sure you have the following:
 5. **Practice:**
    - Follow the program's prompts and practice your English vocabulary.
 
-## Support
+</details>
 
-If you find this project helpful and would like to support its development, you can make a donation via the following method:
+## ❤️ Support
 
-- [PayPal](https://www.paypal.com/paypalme/wattox)
+If this project saved you time, taught you something, or made your day a little easier,
+you can support its development here:
 
-Your contribution helps in maintaining and improving the app. Thank you for your support!
+👉 **[Buy me a coffee via PayPal](https://www.paypal.com/paypalme/wattox)**
 
-## License
+Your support helps keep the project:
+- Actively maintained
+- Continuously improved
+- Free and open source
 
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+Thanks for being part of the community 🤝
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for full details.
