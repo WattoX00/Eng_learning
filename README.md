@@ -1,5 +1,10 @@
 # English Learning Program
 
+[![Website](https://img.shields.io/badge/website-online-success?style=for-the-badge&logo=github)](https://wattox00.github.io/e)
+[![Prompt](https://img.shields.io/badge/Installation-help-blue?style=for-the-badge)](#getting-started)
+![Status](https://img.shields.io/badge/status-stable-blue?style=for-the-badge)
+[![License](https://img.shields.io/github/license/wattox00/todol?style=for-the-badge)](https://github.com/WattoX00/e/blob/main/LICENSE)
+
 Welcome to the English Learning Program.
 
 # [Website](https://wattox00.github.io/e/)
@@ -45,12 +50,14 @@ Before you begin, make sure you have the following:
 5. **Practice:**
    - Follow the program's prompts and practice your English vocabulary.
 
-## Feedback and Support
+## Support
 
-If you encounter any issues or have questions, please feel free to reach out by opening an issue on our [GitHub repository](https://github.com/WattoX00/Eng_learing).
+If you find this project helpful and would like to support its development, you can make a donation via the following method:
+
+- [PayPal](https://www.paypal.com/paypalme/wattox)
+
+Your contribution helps in maintaining and improving the app. Thank you for your support!
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-Happy learning!
