@@ -9,7 +9,9 @@ Welcome to the English Learning Program.
 
 # 🧷 [Website](https://wattox00.github.io/e/)
 
-Now you can try it on the web -> [https://wattox00.github.io/e/](https://wattox00.github.io/e/)
+Now you can try it on the web -> [HERE](https://wattox00.github.io/e/)
+
+The website's github repo -> [HERE](https://github.com/wattox00/e)
 
 # Visual Studio Code
 
